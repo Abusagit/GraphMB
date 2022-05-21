@@ -19,7 +19,7 @@ setup(
         "wheel",
         "requests",
         "setuptools>57.5.0" 'importlib; python_version == "3.7"',
-        "vamb @ git+https://github.com/Abusagit/vamb_for_hic",
+        "vamb @ git+https://github.com/Abusagit/vamb",
         "networkx==2.6.2",
         # torch==1.7.1
         "scikit-learn==0.24.2",
